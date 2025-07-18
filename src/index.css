@@ -1,0 +1,45 @@
+.main {
+    display: flex;
+    justify-items: center;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+#input {
+    width: 30%;
+    margin: auto;
+    margin: 0px 10px 0px 0px;
+}
+.main-div {
+    display: flex;
+    justify-content: space-evenly;
+    width: 69%;
+    
+    margin-top: 10px;
+}
+
+.p1-div {
+    width: 40%;
+    height: 50px;
+   
+}
+.p2-div {
+    width: 40%;
+    height: 50px;
+   
+}
+
+.p1-div p {
+    font-size: 18px;
+    margin: 10px 0px 0px 0px;
+}
+
+.p2-div p {
+    font-size: 18px;
+    margin: 10px 0px 0px 0px;
+}
+
+#bttn {
+    height: 40px;
+}
